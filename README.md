@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Sercan 👋</h1>
+<h1 align="center">Hi, I'm Sercan</h1>
 
-<h3 align="center">
-IT Systems Integration | Homelab | Self-Hosting | Software Development | 3D Printing | CAD |
-</h3>
+<p align="center">
+  IT Systems Integration · Homelab · Self-Hosting · Software Development · 3D Printing · CAD
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scncvk19&label=Profile+views&style=flat" alt="Profile views" />
