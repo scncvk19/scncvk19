@@ -147,8 +147,8 @@ You can find some of my models here:
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=scncvk19&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scncvk19&layout=compact&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
