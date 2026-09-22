@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Sercan</h1>
+<h1 align="center">Hi, I'm Sercan </h1>
+
+<p align="center">
+  <sub><sub>
+    IT Systems Integration · Homelab · Self-Hosting · Software Development · 3D Printing · CAD
+  </sub></sub>
+</p>
 
 <p align="center">
   IT Systems Integration · Homelab · Self-Hosting · Software Development · 3D Printing · CAD
