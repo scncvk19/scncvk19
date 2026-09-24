@@ -60,13 +60,17 @@ The project is currently under active development.
 
 ---
 
-#### maintenance.vik
+#### [maintenance.vik](https://github.com/scncvk19/maintenance.vik)
 
-A management application for properties, equipment and technical assets.
+A self-hosted management platform for properties, equipment and technical assets.
 
-The goal is to keep maintenance schedules, tasks, expenses, documents and asset history organized in one central place.
+It brings maintenance schedules, tasks, finances, contracts, documents, asset history and protected tax data together in one locally hosted application.
 
-Another project where I'm combining what I'm learning with something I can actually use myself.
+Built with:
+
+`Next.js` · `React` · `TypeScript` · `FastAPI` · `Python` · `PostgreSQL` · `Docker`
+
+The project was built around a practical use case and is designed to run locally without relying on a cloud database or external AI services.
 
 ---
 
