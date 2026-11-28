@@ -13,7 +13,7 @@
 ### About Me
 
 I'm currently retraining to become an IT Specialist in System Integration  
-(*Fachinformatiker für Systemintegration*).
+(*Fachinformatiker für Systemintegration*). Long time and extensive experience in a career as a technical manager
 
 IT has become much more than just my career path. I spend a lot of my free time experimenting with servers, Linux, networks, Docker, self-hosted services and my own software projects.
 
